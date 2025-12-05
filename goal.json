@@ -1,0 +1,115 @@
+{
+    "next_pending": [
+      {
+        "id": 4,
+        "name": "WireGuard Core",
+        "detail": "WireGuard Core with support of traffic management.",
+        "price": 1500,
+        "paid_amount": 408.19,
+        "status": "pending",
+        "type": "donation",
+        "repo_owner": "",
+        "repo_name": "",
+        "created_at": "2025-10-18T09:29:25.941Z",
+        "updated_at": "2025-12-03T08:21:25.506573Z"
+      },
+      {
+        "id": 10,
+        "name": "Node One-Click Safe Updates",
+        "detail": "Unlock seamless updates directly from the panel. With a single click, safely update your xray-core, geo databases, and node—no manual configuration or command line required. Streamlined management at your fingertips.",
+        "price": 750,
+        "paid_amount": 716,
+        "status": "pending",
+        "type": "github_stars",
+        "repo_owner": "PasarGuard",
+        "repo_name": "panel",
+        "created_at": "2025-11-29T11:47:07.696232Z",
+        "updated_at": "2025-12-05T16:35:00.239136Z"
+      }
+    ],
+    "last_completed": [
+      {
+        "id": 9,
+        "name": "Bulk user creation",
+        "detail": "Bulk user creation now centers on templates: pick one, choose how many accounts you need, and let the service handle the rest. Usernames can either keep counting (vpnuser_01, vpnuser_02, etc.) or be generated randomly when left blank. Duplicate or existing names are quietly skipped before anything hits the database. Every created account still runs through validation, notifications, and node sync, and the endpoint simply returns the subscription links plus a count of how many succeeded.",
+        "price": 650,
+        "paid_amount": 650,
+        "status": "completed",
+        "type": "github_stars",
+        "repo_owner": "PasarGuard",
+        "repo_name": "panel",
+        "created_at": "2025-11-12T13:08:55.739956Z",
+        "updated_at": "2025-11-27T16:05:00.256175Z"
+      },
+      {
+        "id": 8,
+        "name": "Node Data Limit",
+        "detail": "A feature that automatically disables nodes when they exceed a specified data usage threshold.\nHow it works: Set a maximum data limit for each node (e.g., 100GB, 500GB). When a node reaches its limit, it automatically gets disabled to prevent excessive data usage charges. Nodes can be re-enabled manually or reset at the beginning of each billing cycle.\nUse case: Prevents unexpected high bills from nodes that consume more data than anticipated, giving you better control over infrastructure costs.",
+        "price": 500,
+        "paid_amount": 500,
+        "status": "completed",
+        "type": "github_stars",
+        "repo_owner": "PasarGuard",
+        "repo_name": "panel",
+        "created_at": "2025-11-02T08:16:34.799469Z",
+        "updated_at": "2025-11-12T12:20:00.242437Z"
+      },
+      {
+        "id": 1,
+        "name": "Complete Next UI",
+        "detail": "completing next ui for marzban \n کامل کردن یو آی جدید مرزبان",
+        "price": 799,
+        "paid_amount": 799,
+        "status": "completed",
+        "type": "donation",
+        "repo_owner": "",
+        "repo_name": "",
+        "created_at": "2024-11-17T10:41:59.335Z",
+        "updated_at": "2024-12-02T03:18:04.92Z"
+      }
+    ],
+    "last_cancelled": [
+      {
+        "id": 6,
+        "name": "HardWare ID Support",
+        "detail": "HardWare ID for apps like happ or v2raytun",
+        "price": 1500,
+        "paid_amount": 0,
+        "status": "cancelled",
+        "type": "donation",
+        "repo_owner": "",
+        "repo_name": "",
+        "created_at": "2025-10-18T09:36:30.54Z",
+        "updated_at": "2025-10-18T14:49:46.146Z"
+      },
+      {
+        "id": 5,
+        "name": "Advance Admin Permission Management",
+        "detail": "Limit each admin to specific group or template\ndifferent access level for api\napi-key and etc.",
+        "price": 6000,
+        "paid_amount": 5,
+        "status": "cancelled",
+        "type": "donation",
+        "repo_owner": "",
+        "repo_name": "",
+        "created_at": "2025-10-18T09:33:53.655Z",
+        "updated_at": "2025-10-18T14:49:45.153Z"
+      },
+      {
+        "id": 2,
+        "name": "User Groups",
+        "detail": "This will allows you to categorize users and make user bulk edit easier",
+        "price": 599,
+        "paid_amount": 522,
+        "status": "cancelled",
+        "type": "donation",
+        "repo_owner": "",
+        "repo_name": "",
+        "created_at": "2024-12-02T07:55:59.804Z",
+        "updated_at": "2025-10-18T09:29:29.083Z"
+      }
+    ],
+    "pending_count": 2,
+    "completed_count": 3,
+    "cancelled_count": 3
+  }
