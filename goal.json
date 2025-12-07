@@ -5,26 +5,26 @@
       "name": "WireGuard Core",
       "detail": "WireGuard Core with support of traffic management.",
       "price": 1500,
-      "paid_amount": 408.19,
+      "paid_amount": 409.19,
       "status": "pending",
       "type": "donation",
       "repo_owner": "",
       "repo_name": "",
       "created_at": "2025-10-18T09:29:25.941Z",
-      "updated_at": "2025-12-03T08:21:25.506573Z"
+      "updated_at": "2025-12-07T15:32:28.453492Z"
     },
     {
       "id": 10,
       "name": "Node One-Click Safe Updates",
       "detail": "Unlock seamless updates directly from the panel. With a single click, safely update your xray-core, geo databases, and node—no manual configuration or command line required. Streamlined management at your fingertips.",
       "price": 750,
-      "paid_amount": 727,
+      "paid_amount": 728,
       "status": "pending",
       "type": "github_stars",
       "repo_owner": "PasarGuard",
       "repo_name": "panel",
       "created_at": "2025-11-29T11:47:07.696232Z",
-      "updated_at": "2025-12-07T15:15:01.202048Z"
+      "updated_at": "2025-12-07T16:20:01.803292Z"
     }
   ],
   "last_completed": [
