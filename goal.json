@@ -12,22 +12,22 @@
       "repo_name": "",
       "created_at": "2025-10-18T09:29:25.941Z",
       "updated_at": "2025-12-07T15:32:28.453492Z"
-    },
+    }
+  ],
+  "last_completed": [
     {
       "id": 10,
       "name": "Node One-Click Safe Updates",
       "detail": "Unlock seamless updates directly from the panel. With a single click, safely update your xray-core, geo databases, and node—no manual configuration or command line required. Streamlined management at your fingertips.",
       "price": 750,
-      "paid_amount": 749,
-      "status": "pending",
+      "paid_amount": 750,
+      "status": "completed",
       "type": "github_stars",
       "repo_owner": "PasarGuard",
       "repo_name": "panel",
       "created_at": "2025-11-29T11:47:07.696232Z",
-      "updated_at": "2025-12-09T15:25:03.067089Z"
-    }
-  ],
-  "last_completed": [
+      "updated_at": "2025-12-09T15:45:00.717845Z"
+    },
     {
       "id": 9,
       "name": "Bulk user creation",
@@ -109,7 +109,7 @@
       "updated_at": "2025-10-18T09:29:29.083Z"
     }
   ],
-  "pending_count": 2,
-  "completed_count": 3,
+  "pending_count": 1,
+  "completed_count": 4,
   "cancelled_count": 3
 }
