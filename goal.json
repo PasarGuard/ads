@@ -5,13 +5,13 @@
       "name": "WireGuard Core",
       "detail": "WireGuard Core with support of traffic management.",
       "price": 1500,
-      "paid_amount": 600.03,
+      "paid_amount": 720.07,
       "status": "pending",
       "type": "donation",
       "repo_owner": "",
       "repo_name": "",
       "created_at": "2025-10-18T09:29:25.941Z",
-      "updated_at": "2026-01-04T20:39:04.792227Z"
+      "updated_at": "2026-01-22T09:52:38.833369Z"
     }
   ],
   "last_completed": [
