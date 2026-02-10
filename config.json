@@ -1,42 +1,41 @@
 {
-    "enabled": false,
-    "translations": {
-      "en": {
-        "enabled": true,
-        "text": "Special Offer: Get 50% off on all premium plans! Limited time only. Upgrade now and save big! This exclusive deal includes unlimited bandwidth, priority support, and advanced features.",
-        "textMobile": "50% off premium plans! Limited time offer - upgrade now and unlock unlimited features!",
-        "linkText": "Learn more",
-        "linkTextMobile": "More",
-        "linkUrl": "https://example.com/promo",
-        "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png"
-      },
-      "fa": {
-        "enabled": true,
-        "text": "پیشنهاد ویژه: 50٪ تخفیف روی تمام پلن‌های پریمیوم! زمان محدود. همین الان ارتقا دهید و صرفه‌جویی کنید! این پیشنهاد شامل پهنای باند نامحدود، پشتیبانی اولویت‌دار و ویژگی‌های پیشرفته می‌شود.",
-        "textMobile": "50٪ تخفیف پلن‌های پریمیوم! پیشنهاد محدود - همین الان ارتقا دهید و ویژگی‌های نامحدود را فعال کنید!",
-        "linkText": "اطلاعات بیشتر",
-        "linkTextMobile": "بیشتر",
-        "linkUrl": "https://example.com/promo",
-        "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png"
-      },
-      "ru": {
-        "enabled": true,
-        "text": "Специальное предложение: скидка 50% на все премиум-планы! Ограниченное время. Обновитесь сейчас и сэкономьте! Это эксклюзивное предложение включает безлимитный трафик, приоритетную поддержку и расширенные функции.",
-        "textMobile": "50% скидка на премиум-планы! Ограниченное предложение - обновитесь сейчас и разблокируйте безлимитные функции!",
-        "linkText": "Узнать больше",
-        "linkTextMobile": "Больше",
-        "linkUrl": "https://example.com/promo",
-        "icon": "https://example.com/icon-ru.png"
-      },
-      "zh": {
-        "enabled": true,
-        "text": "特别优惠：所有高级计划享受 50% 折扣！限时优惠。立即升级，节省更多！此独家优惠包括无限带宽、优先支持和高级功能。",
-        "textMobile": "高级计划 50% 折扣！限时优惠 - 立即升级并解锁无限功能！",
-        "linkText": "了解更多",
-        "linkTextMobile": "更多",
-        "linkUrl": "https://example.com/promo",
-        "icon": "https://example.com/icon-zh.png"
-      }
+  "enabled": true,
+  "translations": {
+    "en": {
+      "enabled": true,
+      "text": "This section is dedicated to special sponsors.",
+      "textMobile": "This section is dedicated to special sponsors.",
+      "linkText": "More info",
+      "linkTextMobile": "More",
+      "linkUrl": "https://t.me/Pasar_Guard/62",
+      "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png"
+    },
+    "fa": {
+      "enabled": true,
+      "text": "این بخش به اسپانسرهای ویژه اختصاص دارد.",
+      "textMobile": "این بخش به اسپانسرهای ویژه اختصاص دارد.",
+      "linkText": "اطلاعات بیشتر",
+      "linkTextMobile": "بیشتر",
+      "linkUrl": "https://t.me/Pasar_Guard/62",
+      "icon": "https://raw.githubusercontent.com/PasarGuard/panel/main/dashboard/public/statics/favicon/logo-pwa.png"
+    },
+    "ru": {
+      "enabled": true,
+      "text": "Этот раздел посвящен специальным спонсорам.",
+      "textMobile": "Этот раздел посвящен специальным спонсорам.",
+      "linkText": "Подробнее",
+      "linkTextMobile": "Еще",
+      "linkUrl": "https://t.me/Pasar_Guard/62",
+      "icon": "https://example.com/icon-ru.png"
+    },
+    "zh": {
+      "enabled": true,
+      "text": "此部分专为特别赞助商而设。",
+      "textMobile": "此部分专为特别赞助商而设。",
+      "linkText": "了解更多",
+      "linkTextMobile": "更多",
+      "linkUrl": "https://t.me/Pasar_Guard/62",
+      "icon": "https://example.com/icon-zh.png"
     }
   }
-  
+}
