@@ -1,20 +1,19 @@
 {
-  "next_pending": [
+  "next_pending": [],
+  "last_completed": [
     {
       "id": 4,
       "name": "WireGuard Core",
       "detail": "WireGuard Core with support of traffic management.",
       "price": 1500,
-      "paid_amount": 1450.62,
-      "status": "pending",
+      "paid_amount": 1500,
+      "status": "completed",
       "type": "donation",
       "repo_owner": "",
       "repo_name": "",
       "created_at": "2025-10-18T09:29:25.941Z",
-      "updated_at": "2026-03-14T21:23:46.847775Z"
-    }
-  ],
-  "last_completed": [
+      "updated_at": "2026-03-15T21:24:40.138508Z"
+    },
     {
       "id": 10,
       "name": "Node One-Click Safe Updates",
@@ -109,7 +108,7 @@
       "updated_at": "2025-10-18T09:29:29.083Z"
     }
   ],
-  "pending_count": 1,
-  "completed_count": 4,
+  "pending_count": 0,
+  "completed_count": 5,
   "cancelled_count": 3
 }
