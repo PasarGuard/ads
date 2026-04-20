@@ -2,16 +2,16 @@
   "next_pending": [
     {
       "id": 5,
-      "name": "Advance Admin Permission Management",
+      "name": "Advanced Admin Permission Management",
       "detail": "Limit each admin to specific groups or templates\nSet different access levels for API usage\n\nLimit the number of users\nLimit the amount of data each admin can access or manage\n\nUse API keys for secure access\nAssign permissions to API keys based on roles\n\nRestrict admins from certain actions like create, modify, or reset depending on their access level",
       "price": 3499,
-      "paid_amount": 0,
+      "paid_amount": 5,
       "status": "pending",
       "type": "donation",
       "repo_owner": "",
       "repo_name": "",
       "created_at": "2025-10-18T09:33:53.655Z",
-      "updated_at": "2025-10-18T14:49:45.153Z"
+      "updated_at": "2026-04-20T13:43:13.458583Z"
     }
   ],
   "last_completed": [
