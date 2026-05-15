@@ -18,13 +18,13 @@
       "name": "HardWare ID Support",
       "detail": "HardWare ID for apps like happ or v2raytun",
       "price": 899,
-      "paid_amount": 783,
+      "paid_amount": 793,
       "status": "pending",
       "type": "donation",
       "repo_owner": "",
       "repo_name": "",
       "created_at": "2025-10-18T09:36:30.54Z",
-      "updated_at": "2026-05-13T04:07:49.933461Z"
+      "updated_at": "2026-05-15T07:10:13.185596Z"
     },
     {
       "id": 11,
@@ -37,7 +37,7 @@
       "repo_owner": "PasarGuard",
       "repo_name": "panel",
       "created_at": "2026-04-22T18:16:33.64522Z",
-      "updated_at": "2026-05-15T04:50:00.322564Z"
+      "updated_at": "2026-05-15T07:50:00.260522Z"
     }
   ],
   "last_completed": [
