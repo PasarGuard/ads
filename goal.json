@@ -14,33 +14,33 @@
       "updated_at": "2026-05-15T09:16:30.339488Z"
     },
     {
-      "id": 6,
-      "name": "HardWare ID Support",
-      "detail": "HardWare ID for apps like happ or v2raytun",
-      "price": 899,
-      "paid_amount": 793,
-      "status": "pending",
-      "type": "donation",
-      "repo_owner": "",
-      "repo_name": "",
-      "created_at": "2025-10-18T09:36:30.54Z",
-      "updated_at": "2026-05-15T07:10:13.185596Z"
-    },
-    {
       "id": 11,
       "name": "MTProto node ",
       "detail": "Dedicated proxy infrastructure with per-IP connection limits, concurrent session caps, and per-user usage ratio tracking with configurable quotas.",
       "price": 2000,
-      "paid_amount": 1478,
+      "paid_amount": 1481,
       "status": "pending",
       "type": "github_stars",
       "repo_owner": "PasarGuard",
       "repo_name": "panel",
       "created_at": "2026-04-22T18:16:33.64522Z",
-      "updated_at": "2026-05-15T10:25:00.241685Z"
+      "updated_at": "2026-05-15T12:50:00.308898Z"
     }
   ],
   "last_completed": [
+    {
+      "id": 6,
+      "name": "HardWare ID Support",
+      "detail": "HardWare ID for apps like happ or v2raytun",
+      "price": 899,
+      "paid_amount": 899,
+      "status": "completed",
+      "type": "donation",
+      "repo_owner": "",
+      "repo_name": "",
+      "created_at": "2025-10-18T09:36:30.54Z",
+      "updated_at": "2026-05-15T12:29:27.456929Z"
+    },
     {
       "id": 4,
       "name": "WireGuard Core",
@@ -92,19 +92,6 @@
       "repo_name": "panel",
       "created_at": "2025-11-02T08:16:34.799469Z",
       "updated_at": "2025-11-12T12:20:00.242437Z"
-    },
-    {
-      "id": 1,
-      "name": "Complete Next UI",
-      "detail": "completing next ui for marzban \n کامل کردن یو آی جدید مرزبان",
-      "price": 799,
-      "paid_amount": 799,
-      "status": "completed",
-      "type": "donation",
-      "repo_owner": "",
-      "repo_name": "",
-      "created_at": "2024-11-17T10:41:59.335Z",
-      "updated_at": "2024-12-02T03:18:04.92Z"
     }
   ],
   "last_cancelled": [
@@ -122,7 +109,7 @@
       "updated_at": "2025-10-18T09:29:29.083Z"
     }
   ],
-  "pending_count": 3,
-  "completed_count": 5,
+  "pending_count": 2,
+  "completed_count": 6,
   "cancelled_count": 1
 }
