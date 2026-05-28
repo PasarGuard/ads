@@ -5,13 +5,13 @@
       "name": "MTProto node ",
       "detail": "Dedicated proxy infrastructure with per-IP connection limits, concurrent session caps, and per-user usage ratio tracking with configurable quotas.",
       "price": 2000,
-      "paid_amount": 1618,
+      "paid_amount": 1625,
       "status": "pending",
       "type": "github_stars",
       "repo_owner": "PasarGuard",
       "repo_name": "panel",
       "created_at": "2026-04-22T18:16:33.64522Z",
-      "updated_at": "2026-05-28T12:25:00.26647Z"
+      "updated_at": "2026-05-28T16:50:00.272676Z"
     }
   ],
   "last_completed": [
