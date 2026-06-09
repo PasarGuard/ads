@@ -1,20 +1,19 @@
 {
-  "next_pending": [
+  "next_pending": [],
+  "last_completed": [
     {
       "id": 11,
       "name": "MTProto node ",
       "detail": "Dedicated proxy infrastructure with per-IP connection limits, concurrent session caps, and per-user usage ratio tracking with configurable quotas.",
       "price": 2000,
-      "paid_amount": 1993,
-      "status": "pending",
+      "paid_amount": 2000,
+      "status": "completed",
       "type": "github_stars",
       "repo_owner": "PasarGuard",
       "repo_name": "panel",
       "created_at": "2026-04-22T18:16:33.64522Z",
-      "updated_at": "2026-06-09T15:55:00.308273Z"
-    }
-  ],
-  "last_completed": [
+      "updated_at": "2026-06-09T16:35:00.263513Z"
+    },
     {
       "id": 5,
       "name": "Advanced Admin Permission Management",
@@ -66,19 +65,6 @@
       "repo_name": "panel",
       "created_at": "2025-11-29T11:47:07.696232Z",
       "updated_at": "2025-12-09T15:45:00.717845Z"
-    },
-    {
-      "id": 9,
-      "name": "Bulk user creation",
-      "detail": "Bulk user creation now centers on templates: pick one, choose how many accounts you need, and let the service handle the rest. Usernames can either keep counting (vpnuser_01, vpnuser_02, etc.) or be generated randomly when left blank. Duplicate or existing names are quietly skipped before anything hits the database. Every created account still runs through validation, notifications, and node sync, and the endpoint simply returns the subscription links plus a count of how many succeeded.",
-      "price": 650,
-      "paid_amount": 650,
-      "status": "completed",
-      "type": "github_stars",
-      "repo_owner": "PasarGuard",
-      "repo_name": "panel",
-      "created_at": "2025-11-12T13:08:55.739956Z",
-      "updated_at": "2025-11-27T16:05:00.256175Z"
     }
   ],
   "last_cancelled": [
@@ -96,7 +82,7 @@
       "updated_at": "2025-10-18T09:29:29.083Z"
     }
   ],
-  "pending_count": 1,
-  "completed_count": 7,
+  "pending_count": 0,
+  "completed_count": 8,
   "cancelled_count": 1
 }
